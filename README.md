@@ -82,13 +82,13 @@ Están organizadas en el orden en que las vas a necesitar: crear el producto →
 Instala todas de una vez:
 
 ```bash
-npx skills add TU-USUARIO/skills-ia-para-vender-productos-digitales
+npx skills add juanpabloo-bot/skills-ia-para-vender-productos-digitales
 ```
 
 O solo una:
 
 ```bash
-npx skills add TU-USUARIO/skills-ia-para-vender-productos-digitales --skill offers
+npx skills add juanpabloo-bot/skills-ia-para-vender-productos-digitales --skill offers
 ```
 
 En Claude Code también puedes copiar a mano la carpeta de la skill dentro de `~/.claude/skills/`.
